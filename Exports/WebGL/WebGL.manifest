@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: hyperjump-scripting-demo_0
-      Hash: 225d38cfa04e985ebabbf8340c095123
-      CRC: 3788574140
+      Name: feature-demo_0
+      Hash: 562120ba91da1a00dd2132119b1db391
+      CRC: 2247818906
       Dependencies: {}
