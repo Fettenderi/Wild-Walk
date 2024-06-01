@@ -1,8 +1,0 @@
-ManifestFileVersion: 1
-CompatibilityAssetBundleManifest:
-  AssetBundleInfos:
-    Info_0:
-      Name: wildwalk_0
-      Hash: 1847ef83f186982633398fba5a0577eb
-      CRC: 1515620432
-      Dependencies: {}
