@@ -21,7 +21,17 @@ MonoBehaviour:
   worldID: 9e1ww8ijevcf4t9a5jhy6
   scene: {fileID: 102900000, guid: 39181cc59e334e64eb30642adc164b5c, type: 3}
   csharpAssembly: {fileID: 0}
-  embeddedPackageAssets: []
+  embeddedPackageAssets:
+  - id: Deer
+    asset: {fileID: 7249876550345062493, guid: a108010e6b95df1448ade5e08acae6ad, type: 3}
+  - id: Squirrel
+    asset: {fileID: 7560414668656002140, guid: a6319f0beafd11744b9932fa83e2b4ce, type: 3}
+  - id: Fox
+    asset: {fileID: 7300102456961367092, guid: 5f535aa6f09754345810de27951c8037, type: 3}
+  - id: Eagle
+    asset: {fileID: 4313675409491599345, guid: 7ff2fadf43334624db7cabd69681b1ad, type: 3}
+  - id: Owl
+    asset: {fileID: 8685869513038412738, guid: 129ff5d08a0cecd46a63344f60ddc144, type: 3}
   networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
